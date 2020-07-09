@@ -1,3 +1,5 @@
 # Paparazzi
 jewelry web site
-This is also a reository to demonstrate how to update inventory
+This is a repository to demonstrate how to display and update inventory
+
+This is a new branch, chatbot feature
