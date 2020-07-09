@@ -1,0 +1,2 @@
+# Paparazzi
+jewelry web site
